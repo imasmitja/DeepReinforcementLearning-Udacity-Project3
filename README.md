@@ -45,7 +45,11 @@ Then, place the file in the `p3_collab-compet/` folder in the DRLND GitHub repos
 
 After you have followed the instructions above, open `Tennis.ipynb` (located in the `p3_collab-compet/` folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
+# Instructions
 
+Follow the instructions in `collab_compet.py` to get started with training your own agent!
+
+`solved_checkpoint_actor.pth` and `solved_checkpoint_critic.pth` are the weights of a trined DDPG agent!
 
 
 

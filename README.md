@@ -22,7 +22,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 The project environment is similar to, but **not identical to** the Tennis environment on the [Unity ML-Agents GitHub page](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md).
 
-#The Environment
+# The Environment
 
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
